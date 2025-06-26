@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Boost Bino</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>📱 Meet Bino</h1>
+    <p>Bino is a WhatsApp-based search platform that brings answers to you right inside your chat.</p>
+    <h2>🚀 Why It's Cool</h2>
+    <ul>
+      <li>No need to install another app</li>
+      <li>Quick, clean, and user-friendly</li>
+      <li>Feels like chatting with a smart friend!</li>
+    </ul>
+    <h2>💡 How I'd Improve It</h2>
+    <p>I'd suggest adding quick reply buttons, better keyword recognition, and daily trending search highlights.</p>
+    <footer>Made with 💚 by Pranitha</footer>
+  </div>
+</body>
+</html>
